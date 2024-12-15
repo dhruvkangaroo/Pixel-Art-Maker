@@ -1,5 +1,7 @@
 # Pixel Art Maker
 
+[https://dhruvkangaroo.github.io/Pixel-Art-Maker/]
+
 A simple and interactive **Pixel Art Maker** created using HTML, CSS, and JavaScript. This project allows users to create their own pixel art by filling in grid squares with custom colors.
 
 ## Features
